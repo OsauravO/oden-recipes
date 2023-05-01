@@ -1,1 +1,1 @@
-This project maintains various recipes of different recipes.
+This project maintains various recipes of different dishes.
